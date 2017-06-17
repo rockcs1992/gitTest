@@ -15,4 +15,5 @@ function masterfunc1(a,b){
 
 function masterfunc2(a,b){
   return a..b;
+
 }
