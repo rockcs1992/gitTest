@@ -17,3 +17,5 @@ function masterfunc2(a,b){
   return a..b;
 
 }
+
+function masterfunc3(a,b)
