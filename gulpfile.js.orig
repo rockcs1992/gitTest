@@ -2,17 +2,19 @@ function add(a,b){
   returb a + b;
 }
 
+<<<<<<< HEAD
 function test1func1(a,b){
   return a - b;
 }
 
 function test1func2(a,b){
   return a * b;
-
+=======
 function fun1(a,b){
   return a - b;
 }
 
 function masterfunc1(a,b){
   return a/b;
+>>>>>>> 47839dbf53712de85a169fdb016210eea96fd58d
 }
