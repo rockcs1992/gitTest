@@ -1,2 +1,2 @@
 This is something from master;
-Changes from test on line 2
+This is changes from test branch;
