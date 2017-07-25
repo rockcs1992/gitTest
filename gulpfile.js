@@ -1,3 +1,2 @@
-This is something from master;
-
-This is change from test branch on line 3;
+Start from scratch
+master change NO.1 line 2;
